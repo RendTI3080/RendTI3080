@@ -1,6 +1,8 @@
 ### Hi there 👋
 
 <p align="left"><img width=15% height:40%" src="https://github.com/alansmathew/alansmathew/raw/master/lang.gif" alt="lang image here" /></p>
+  
+  <img src="https://github.com/RendTI3080/RendTI3080/blob/main/banner-ren.png">
 
 <!--
 **RendTI3080/RendTI3080** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
